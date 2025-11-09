@@ -34,7 +34,7 @@ Master Jenkins with the summary of the <strong>Jenkins CI/CD Pipeline</strong> b
 </p>
 
 > 💡 **Tip:**  
-> To view the full-resolution version of this document, click the **Download PDF** badge above.  
+> To view the **full-resolution version** of this document, click the **Download PDF** badge above.  
 > It will take you to the original file hosted on Google Drive.
 
 
